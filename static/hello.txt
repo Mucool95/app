@@ -1,0 +1,2 @@
+this is a text file
+static directory is used to serve files
